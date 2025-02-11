@@ -1,7 +1,7 @@
 {
   "name": "static-html-site",
   "version": "1.0.0",
-  "description": "Static HTML website",
+  "description": "Static HTML website!",
   "scripts": {
     "build": "echo \"No build required\""
   }
